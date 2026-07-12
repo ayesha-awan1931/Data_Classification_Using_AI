@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification Using Machine Learning
+#  Iris Flower Classification Using Machine Learning
 
 **DecodeLabs — Artificial Intelligence Internship, Project 2: Data Classification Using AI**
 Batch 2026 · Supervised Learning Track
@@ -72,5 +72,5 @@ based on four physical measurements: sepal length, sepal width, petal length, an
 9. Conclusion
 
 ## Author
-AI Intern — DecodeLabs, Batch 2026
-Contact: decodelabs.tech@gmail.com · www.decodelabs.tech
+Ayesha Farasat
+Contact: ayeshafarasatawan@gmail.com · LinkedIn:www.linkedin.com/in/ayesha-farasat-awan-371119403
